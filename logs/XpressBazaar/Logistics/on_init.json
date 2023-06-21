@@ -7,46 +7,42 @@
     "core_version": "1.1.0",
     "bap_id": "preprod.xpressbaazaar.com",
     "bap_uri": "https://preprod.xpressbaazaar.com/logistics/v1/",
-    "transaction_id": "702d50e1-03f9-4666-9ab2-1768d6f6051e",
-    "message_id": "3e9a02ea-17b7-4603-adbc-431a6fb0c499",
-    "timestamp": "2023-05-30T08:21:16.529Z",
-    "bpp_id": "qaapis.delcaper.com",
-    "bpp_uri": "https://qaapis.delcaper.com/public/ondc"
+    "bpp_id": "preprod-bpp.iway.digiit.io",
+    "bpp_uri": "https://preprod-bpp.iway.digiit.io",
+    "transaction_id": "d068cbb2-44b7-45dc-bf43-cf40ca0599d8",
+    "message_id": "4a0bf3d2-ee78-4104-a674-6ba089bb0e76",
+    "timestamp": "2023-06-20T15:34:14.826Z"
   },
   "message": {
     "order": {
-      "provider": {
-        "id": "Delcaper",
-        "locations": [{ "id": "qaapis.delcaper.com" }]
-      },
-      "items": [
-        {
-          "id": "1",
-          "category_id": "Same Day Delivery",
-          "descriptor": { "code": "P2P" }
-        }
-      ],
+      "provider": { "id": "107-Account-DER-292" },
+      "provider_location": { "id": "107-41c25527-eafc-42d9-abb2-03" },
+      "items": [{ "id": "19" }],
       "quote": {
-        "price": { "currency": "INR", "value": "5.9" },
+        "price": { "currency": "INR", "value": "1370.0" },
         "breakup": [
           {
-            "@ondc/org/item_id": "1",
+            "@ondc/org/item_id": "19",
             "@ondc/org/title_type": "Delivery Charge",
-            "price": { "currency": "INR", "value": "5.9" }
+            "price": { "currency": "INR", "value": "1350.0" }
+          },
+          {
+            "@ondc/org/title_type": "RTO Charge",
+            "price": { "currency": "INR", "value": "20.0" }
           }
         ]
       },
       "payment": {
-        "type": "POST-FULFILLMENT",
-        "collected_by": "BAP",
+        "type": null,
+        "collected_type": null,
         "@ondc/org/settlement_details": [
           {
             "settlement_counterparty": "seller-app",
-            "settlement_type": "upi",
-            "beneficiary_name": "xxxxx",
-            "upi_address": "gft@oksbi",
-            "settlement_bank_account_no": "XXXXXXXXXX",
-            "settlement_ifsc_code": "XXXXXXXXX"
+            "settlement_type": "neft",
+            "beneficiary_anme": null,
+            "upi_address": null,
+            "settlement_bank_account_no": "ACCT000001",
+            "settlement_ifsc_code": null
           }
         ]
       }

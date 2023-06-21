@@ -7,41 +7,41 @@
     "core_version": "1.1.0",
     "bap_id": "preprod.xpressbaazaar.com",
     "bap_uri": "https://preprod.xpressbaazaar.com/logistics/v1/",
-    "bpp_id": "qaapis.delcaper.com",
-    "bpp_uri": "https://qaapis.delcaper.com/public/ondc",
-    "transaction_id": "702d50e1-03f9-4666-9ab2-1768d6f6051e",
-    "message_id": "3e9a02ea-17b7-4603-adbc-431a6fb0c499",
-    "timestamp": "2023-05-30T07:01:41.797Z",
+    "bpp_id": "preprod-bpp.iway.digiit.io",
+    "bpp_uri": "https://preprod-bpp.iway.digiit.io",
+    "transaction_id": "d068cbb2-44b7-45dc-bf43-cf40ca0599d8",
+    "message_id": "4a0bf3d2-ee78-4104-a674-6ba089bb0e76",
+    "timestamp": "2023-06-20T15:33:56.620Z",
     "ttl": "PT30S"
   },
   "message": {
     "order": {
       "provider": {
-        "id": "Delcaper",
-        "locations": [{ "id": "qaapis.delcaper.com" }]
+        "id": "107-Account-DER-292",
+        "locations": [{ "id": "107-41c25527-eafc-42d9-abb2-03" }]
       },
       "items": [
         {
-          "id": "1",
-          "category_id": "Same Day Delivery",
+          "id": "19",
+          "category_id": "Standard Delivery",
           "descriptor": { "code": "P2P" }
         }
       ],
       "fulfillments": [
         {
-          "id": "1",
+          "id": "a4db6c73-0cc4-462a-a131-12b9e03df23a",
           "type": "Prepaid",
           "start": {
             "location": {
-              "gps": "13.072268,77.3231792",
+              "gps": "13.105620,77.382700",
               "address": {
                 "name": "Yumfood",
-                "building": "Address",
-                "locality": "No 86, Korulur Village Kasaba Hobli, Hoskote Taluk",
-                "city": "Bengaluru",
-                "state": "KA",
+                "building": "Visveswarapura, Nelamangala 562123, Karnataka Visveswarapura Nelamangala India",
+                "locality": "Visveswarapura, Nelamangala 562123, Karnataka Visveswarapura Nelamangala India",
+                "city": "Nelamangala",
+                "state": "kA",
                 "country": "India",
-                "area_code": "560056"
+                "area_code": "560061"
               }
             },
             "contact": { "phone": "8978909876", "email": "abcd.efgh@gmail.com" }
@@ -67,31 +67,18 @@
         "name": "Yumfood",
         "address": {
           "name": "Yumfood",
-          "locality": "No 86, Korulur Village Kasaba Hobli, Hoskote Taluk",
-          "city": "Bengaluru",
-          "state": "KA",
+          "building": "Visveswarapura, Nelamangala 562123, Karnataka Visveswarapura Nelamangala India",
+          "locality": "Visveswarapura, Nelamangala 562123, Karnataka Visveswarapura Nelamangala India",
+          "city": "Nelamangala",
+          "state": "kA",
           "country": "India",
-          "area_code": "560056"
+          "area_code": "560061"
         },
         "tax_number": "98798798798",
         "phone": "8978909876",
         "email": "abcd.efgh@gmail.com",
-        "created_at": "2023-05-30T07:01:41.797Z",
-        "updated_at": "2023-05-30T07:01:41.797Z"
-      },
-      "payment": {
-        "@ondc/org/collection_amount": "30000",
-        "collected_by": "BPP",
-        "type": "ON-FULFILLMENT",
-        "@ondc/org/settlement_details": [
-          {
-            "settlement_counterparty": "buyer-app",
-            "settlement_type": "upi",
-            "upi_address": "gft@oksbi",
-            "settlement_bank_account_no": "1234567890",
-            "settlement_ifsc_code": "TEST1234"
-          }
-        ]
+        "created_at": "2023-06-20T05:23:00.813Z",
+        "updated_at": "2023-06-20T05:23:00.813Z"
       }
     }
   }

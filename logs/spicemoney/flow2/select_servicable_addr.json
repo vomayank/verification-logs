@@ -9,9 +9,9 @@
         "bap_uri": "https://b2bapi-stage.spicesmartshop.com/bap",
         "bpp_id": "b-spicemoneyondc.nlincs.in",
         "bpp_uri": "https://b-spicemoneyondc.nlincs.in/bpp",
-        "transaction_id": "234d596e-3f6e-465a-8587-1570733413d0",
-        "message_id": "f4272776-094b-4348-b560-8b0ff44c81db",
-        "timestamp": "2023-06-02T08:07:48.232Z",
+        "transaction_id": "f047cf51-e611-4f79-9fa5-658962157172",
+        "message_id": "65c4822a-d906-4bc7-b815-88b5d8133cf0",
+        "timestamp": "2023-06-14T13:19:36.377Z",
         "ttl": "PT30S"
     },
     "message": {

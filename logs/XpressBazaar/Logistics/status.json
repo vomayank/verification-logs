@@ -7,12 +7,12 @@
     "core_version": "1.1.0",
     "bap_id": "preprod.xpressbaazaar.com",
     "bap_uri": "https://preprod.xpressbaazaar.com/logistics/v1/",
-    "bpp_id": "qaapis.delcaper.com",
-    "bpp_uri": "https://qaapis.delcaper.com/public/ondc",
-    "transaction_id": "702d50e1-03f9-4666-9ab2-1768d6f6051e",
-    "message_id": "3e9a02ea-17b7-4603-adbc-431a6fb0c499",
-    "timestamp": "2023-05-30T07:01:41.797Z",
+    "bpp_id": "preprod-bpp.iway.digiit.io",
+    "bpp_uri": "https://preprod-bpp.iway.digiit.io",
+    "transaction_id": "d068cbb2-44b7-45dc-bf43-cf40ca0599d8",
+    "message_id": "4a0bf3d2-ee78-4104-a674-6ba089bb0e76",
+    "timestamp": "2023-06-20T15:43:55.029Z",
     "ttl": "PT30S"
   },
-  "message": { "order_id": "107209ed-a200-4d79-8b5f-7ee28519d810" }
+  "message": { "order_id": "03a0acdd-93bf-4a3d-b995-8639bf97ab48" }
 }

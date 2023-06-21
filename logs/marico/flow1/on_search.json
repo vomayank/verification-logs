@@ -5,13 +5,13 @@
         "city": "std:079",
         "action": "on_search",
         "core_version": "1.1.0",
-        "bap_id": "jiomart-buyer.ondcz5.de",
-        "bap_uri": "https://jiomart-buyer.ondcz5.de/protocol/v1",
+        "bap_id": "buyer-app-preprod.ondc.org",
+        "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
         "bpp_id": "ondcpreprod.marico.in",
         "bpp_uri": "https://ondcpreprod.marico.in/retail/",
-        "transaction_id": "5e37bdc3-1493-4707-8bbe-732a4b6ab33f",
-        "message_id": "6e8b2582-a919-43af-bf67-a8b20932f070",
-        "timestamp": "2023-06-01T10:17:48.248Z",
+        "transaction_id": "2d225e93-dfa9-47c3-b4f6-bfdecf748d4e",
+        "message_id": "edb2e2dc-a323-4bdd-bddb-0c6181a9f63c",
+        "timestamp": "2023-06-14T04:43:04.288Z",
         "ttl": "PT24H"
     },
     "message": {
@@ -61,7 +61,7 @@
                     ],
                     "time": {
                         "label": "enable",
-                        "timestamp": "2023-06-01T10:17:48.248Z"
+                        "timestamp": "2023-06-14T04:43:04.288Z"
                     },
                     "fulfillments": [
                         {
@@ -81,10 +81,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -106,7 +106,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -138,10 +138,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -163,7 +163,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -195,10 +195,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -220,7 +220,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -252,10 +252,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -277,7 +277,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -309,10 +309,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -334,7 +334,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -366,10 +366,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -391,7 +391,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -423,10 +423,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -448,7 +448,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -480,10 +480,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -505,7 +505,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -537,10 +537,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -562,7 +562,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -594,10 +594,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -619,7 +619,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -651,10 +651,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -676,7 +676,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -708,10 +708,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -733,7 +733,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -765,10 +765,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -790,7 +790,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -822,10 +822,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "4"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -847,7 +847,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -879,10 +879,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -904,7 +904,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -936,10 +936,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "0"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -961,7 +961,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -993,10 +993,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1018,7 +1018,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1050,10 +1050,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1075,7 +1075,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1107,10 +1107,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1132,7 +1132,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1164,10 +1164,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1189,7 +1189,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1221,10 +1221,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1246,7 +1246,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1278,10 +1278,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1303,7 +1303,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1335,10 +1335,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1360,7 +1360,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1392,10 +1392,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1417,7 +1417,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1449,10 +1449,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1474,7 +1474,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1506,10 +1506,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1531,7 +1531,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1563,10 +1563,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1588,7 +1588,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1620,10 +1620,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1645,7 +1645,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1677,10 +1677,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1702,7 +1702,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1734,10 +1734,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "4"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1757,7 +1757,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1789,10 +1789,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1814,7 +1814,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1846,10 +1846,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1871,7 +1871,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1903,10 +1903,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1928,7 +1928,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -1960,10 +1960,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -1983,7 +1983,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2015,10 +2015,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2038,7 +2038,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2070,10 +2070,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2093,7 +2093,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2125,10 +2125,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2150,7 +2150,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2182,10 +2182,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2207,7 +2207,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2239,10 +2239,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2264,7 +2264,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2296,10 +2296,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2321,7 +2321,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2353,10 +2353,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2378,7 +2378,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2410,10 +2410,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2435,7 +2435,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2467,10 +2467,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2492,7 +2492,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2524,10 +2524,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2549,7 +2549,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2581,10 +2581,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2606,7 +2606,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2638,10 +2638,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2663,7 +2663,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2695,10 +2695,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2720,7 +2720,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2752,10 +2752,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2777,7 +2777,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2809,10 +2809,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "0"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2834,7 +2834,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2866,10 +2866,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2891,7 +2891,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2923,10 +2923,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "0"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -2948,7 +2948,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -2980,10 +2980,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3005,7 +3005,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3037,10 +3037,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3062,7 +3062,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3094,10 +3094,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3119,7 +3119,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3151,10 +3151,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3174,7 +3174,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3206,10 +3206,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3231,7 +3231,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3263,10 +3263,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3288,7 +3288,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3320,10 +3320,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "4"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3345,7 +3345,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3377,10 +3377,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3402,7 +3402,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3434,10 +3434,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3459,7 +3459,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3491,10 +3491,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3514,7 +3514,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3546,10 +3546,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3569,7 +3569,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3601,10 +3601,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3624,7 +3624,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3656,10 +3656,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3679,7 +3679,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3711,10 +3711,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3734,7 +3734,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3766,10 +3766,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3789,7 +3789,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3821,10 +3821,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3846,7 +3846,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3878,10 +3878,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3903,7 +3903,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3935,10 +3935,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -3960,7 +3960,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -3992,10 +3992,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4017,7 +4017,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4049,10 +4049,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4074,7 +4074,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4106,10 +4106,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4131,7 +4131,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4163,10 +4163,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4188,7 +4188,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4220,10 +4220,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4245,7 +4245,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4277,10 +4277,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4302,7 +4302,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4334,10 +4334,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4357,7 +4357,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4389,10 +4389,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4414,7 +4414,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4446,10 +4446,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4471,7 +4471,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4503,10 +4503,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4526,7 +4526,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4558,10 +4558,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4581,7 +4581,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4613,10 +4613,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4636,7 +4636,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4668,10 +4668,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4691,7 +4691,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4723,10 +4723,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4748,7 +4748,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4780,10 +4780,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4805,7 +4805,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4837,10 +4837,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4862,7 +4862,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4894,10 +4894,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4919,7 +4919,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -4951,10 +4951,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -4976,7 +4976,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5008,10 +5008,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5033,7 +5033,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5065,10 +5065,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5090,7 +5090,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5122,10 +5122,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5147,7 +5147,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5179,10 +5179,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5204,7 +5204,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5236,10 +5236,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5259,7 +5259,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5291,10 +5291,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5314,7 +5314,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5346,10 +5346,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5369,7 +5369,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5401,10 +5401,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "0"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5424,7 +5424,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5456,10 +5456,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5479,7 +5479,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5511,10 +5511,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5534,7 +5534,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5566,10 +5566,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5589,7 +5589,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5621,10 +5621,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5646,7 +5646,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5678,10 +5678,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5701,7 +5701,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5733,10 +5733,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5756,7 +5756,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5788,10 +5788,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5813,7 +5813,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5845,10 +5845,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5868,7 +5868,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5900,10 +5900,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "0"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5923,7 +5923,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -5955,10 +5955,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -5978,7 +5978,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6010,10 +6010,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6033,7 +6033,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6065,10 +6065,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "4"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6088,7 +6088,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6120,10 +6120,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6145,7 +6145,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6177,10 +6177,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6202,7 +6202,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6234,10 +6234,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6257,7 +6257,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6289,10 +6289,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6312,7 +6312,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6344,10 +6344,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6367,7 +6367,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6399,10 +6399,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6422,7 +6422,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6454,10 +6454,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6477,7 +6477,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6509,10 +6509,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "4"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6532,7 +6532,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": false,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6564,10 +6564,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6589,7 +6589,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {
@@ -6621,10 +6621,10 @@
                             },
                             "quantity": {
                                 "available": {
-                                    "count": "2"
+                                    "count": 4
                                 },
                                 "maximum": {
-                                    "count": "3"
+                                    "count": 4
                                 }
                             },
                             "descriptor": {
@@ -6644,7 +6644,7 @@
                             "@ondc/org/seller_pickup_return": false,
                             "@ondc/org/return_window": "P7D",
                             "@ondc/org/cancellable": true,
-                            "@ondc/org/available_on_cod": true,
+                            "@ondc/org/available_on_cod": false,
                             "@ondc/org/time_to_ship": "P1D",
                             "@ondc/org/contact_details_consumer_care": "Saffola,saffolasupport@marico.com,917777007402",
                             "@ondc/org/statutory_reqs_packaged_commodities": {

@@ -1,22 +1,22 @@
 {
     "context": {
         "ttl": "PT30S",
-        "city": "std:079",
+        "city": "std:080",
         "action": "on_status",
-        "bap_id": "jiomart-buyer.ondcz5.de",
+        "bap_id": "buyer-app-preprod.ondc.org",
         "bpp_id": "ondcpreprod.marico.in",
         "domain": "nic2004:52110",
-        "bap_uri": "https://jiomart-buyer.ondcz5.de/protocol/v1",
+        "bap_uri": "https://buyer-app-preprod.ondc.org/protocol/v1",
         "bpp_uri": "https://ondcpreprod.marico.in/retail/",
         "country": "IND",
-        "timestamp": "2023-06-01T10:24:21.566Z",
-        "message_id": "f5931ed6cf6abddbf7b5da5e4be22b1b",
+        "timestamp": "2023-06-14T04:50:50.450Z",
+        "message_id": "817ec14860f944b323b93313e25fa1b1",
         "core_version": "1.1.0",
-        "transaction_id": "5e37bdc3-1493-4707-8bbe-732a4b6ab33f"
+        "transaction_id": "2d225e93-dfa9-47c3-b4f6-bfdecf748d4e"
     },
     "message": {
         "order": {
-            "id": "d43b3ddf-0927-4f69-bb89-b43a8fe092db",
+            "id": "2023-06-14-782394",
             "state": "Accepted",
             "provider": {
                 "id": "ondcpreprod.marico.in",
@@ -28,14 +28,14 @@
             },
             "items": [
                 {
-                    "id": "MANS109",
+                    "id": "8901088182522",
                     "fulfillment_id": "1",
                     "quantity": {
-                        "count": 1
+                        "count": 2
                     }
                 },
                 {
-                    "id": "8901088182539",
+                    "id": "8901088135054",
                     "fulfillment_id": "1",
                     "quantity": {
                         "count": 1
@@ -43,20 +43,20 @@
                 }
             ],
             "billing": {
-                "name": "Jay Bhavsar",
-                "email": "jay@jetbro.in",
+                "name": "jak Bhavsar",
+                "email": "jak@jetbro.in",
                 "phone": "9898547799",
                 "address": {
                     "city": "Ahmedabad",
-                    "name": "Jay Bhavsar",
+                    "name": "jak Bhavsar",
                     "state": "Gujarat",
-                    "country": "India",
-                    "building": " E-320, Satva 3",
-                    "locality": "Haridarshan cross road",
+                    "country": "IND",
+                    "building": " Haridarshan cross road",
+                    "locality": "E-302, Stava-3",
                     "area_code": "380023"
                 },
-                "created_at": "2023-06-01T10:19:20.455Z",
-                "updated_at": "2023-06-01T10:19:20.455Z"
+                "created_at": "2023-06-14T04:43:52.365Z",
+                "updated_at": "2023-06-14T04:43:52.365Z"
             },
             "fulfillments": [
                 {
@@ -82,8 +82,8 @@
                         },
                         "time": {
                             "range": {
-                                "start": "2023-06-03T10:19:44.990Z",
-                                "end": "2023-06-03T11:19:44.990Z"
+                                "start": "2023-06-16T04:43:53.885Z",
+                                "end": "2023-06-16T05:43:53.885Z"
                             }
                         },
                         "instructions": {
@@ -92,27 +92,26 @@
                         },
                         "contact": {
                             "phone": "9898547799",
-                            "email": "jay@jetbro.in"
+                            "email": "jak@jetbro.in"
                         }
                     },
                     "end": {
                         "location": {
-                            "gps": "23.0213373,72.6239995",
+                            "gps": "23.016516, 72.624965",
                             "address": {
-                                "door": " ",
-                                "name": "Jay Bhavsar",
-                                "building": " E-320, Satva 3",
-                                "locality": "Haridarshan cross road",
+                                "name": "jak Bhavsar",
+                                "building": "Haridarshan cross road",
+                                "locality": "E-302, Stava-3",
                                 "city": "Ahmedabad",
                                 "state": "Gujarat",
-                                "country": "INDIA",
+                                "country": "IND",
                                 "area_code": "380023"
                             }
                         },
                         "time": {
                             "range": {
-                                "start": "2023-06-05T10:19:44.990Z",
-                                "end": "2023-06-05T11:19:44.990Z"
+                                "start": "2023-06-18T04:43:53.885Z",
+                                "end": "2023-06-18T05:43:53.885Z"
                             }
                         },
                         "instructions": {
@@ -121,7 +120,7 @@
                         },
                         "contact": {
                             "phone": "9898547799",
-                            "email": "jay@jetbro.in"
+                            "email": "jak@jetbro.in"
                         }
                     }
                 }
@@ -129,38 +128,38 @@
             "quote": {
                 "price": {
                     "currency": "INR",
-                    "value": "697"
+                    "value": "1124"
                 },
                 "breakup": [
                     {
-                        "title": "Saffola Pure Honey 250g + Saffola Arogyam ChyawanAmrut 1 kg",
+                        "title": "Saffola Arogyam Chyawanamrut includes Chyawanprash, haldi & Ayushkwath Kadha ingredients - 1 Kg",
                         "price": {
                             "currency": "INR",
-                            "value": "379"
+                            "value": 590
                         },
-                        "@ondc/org/item_id": "MANS109",
+                        "@ondc/org/item_id": "8901088182522",
                         "item": {
                             "price": {
                                 "currency": "INR",
-                                "value": "379"
+                                "value": 295
                             }
                         },
                         "@ondc/org/item_quantity": {
-                            "count": 1
+                            "count": 2
                         },
                         "@ondc/org/title_type": "item"
                     },
                     {
-                        "title": "Saffola Immuniveda Golden Turmeric Milk Mix 400g | Ayurvedic Immunity Booster Haldi Doodh | Healthy drink for kids & adults",
+                        "title": "Saffola Aura Extra Virgin Olive Oil, 500ml",
                         "price": {
                             "currency": "INR",
-                            "value": "318"
+                            "value": 519
                         },
-                        "@ondc/org/item_id": "8901088182539",
+                        "@ondc/org/item_id": "8901088135054",
                         "item": {
                             "price": {
                                 "currency": "INR",
-                                "value": "318"
+                                "value": 519
                             }
                         },
                         "@ondc/org/item_quantity": {
@@ -172,7 +171,7 @@
                         "title": "Delivery Charges",
                         "price": {
                             "currency": "INR",
-                            "value": "0.00"
+                            "value": "15"
                         },
                         "@ondc/org/item_id": "1",
                         "@ondc/org/title_type": "delivery"
@@ -181,39 +180,33 @@
                 "ttl": "PT24H"
             },
             "payment": {
-                "uri": "https://ondc.transaction.com/payment",
+                "uri": "https://juspay.in/",
                 "tl_method": "http/get",
                 "params": {
                     "currency": "INR",
-                    "transaction_id": "20230601011650000871057009008132874",
-                    "amount": "697"
+                    "transaction_id": "2d225e93-dfa9-47c3-b4f6-bfdecf748d4e",
+                    "amount": "1109"
                 },
                 "status": "PAID",
                 "type": "ON-ORDER",
                 "collected_by": "BAP",
                 "@ondc/org/buyer_app_finder_fee_type": "percent",
-                "@ondc/org/buyer_app_finder_fee_amount": "2",
+                "@ondc/org/buyer_app_finder_fee_amount": "3.0",
                 "@ondc/org/settlement_details": [
                     {
-                        "settlement_counterparty": "seller-app",
-                        "settlement_phase": "sale-amount",
+                        "bank_name": "HDFC Bank Ltd.",
+                        "branch_name": "HDFC Bank Ltd. , Kalina",
                         "settlement_type": "neft",
                         "beneficiary_name": "Marico Limited - DTC",
-                        "settlement_bank_account_no": "MARICO12337",
+                        "settlement_phase": "sale-amount",
                         "settlement_ifsc_code": "HDFC0001573",
-                        "bank_name": "HDFC Bank Ltd.",
-                        "branch_name": "HDFC Bank Ltd. , Kalina"
-                    }
-                ],
-                "documents": [
-                    {
-                        "url": "https://inovice/d43b3ddf-0927-4f69-bb89-b43a8fe092db",
-                        "label": "Invoice"
+                        "settlement_counterparty": "seller-app",
+                        "settlement_bank_account_no": "MARICO12337"
                     }
                 ]
             },
-            "created_at": "2023-06-01T10:19:44.990Z",
-            "updated_at": "2023-06-01T10:24:21.566Z"
+            "created_at": "2023-06-14T04:43:53.885Z",
+            "updated_at": "2023-06-14T04:50:50.450Z"
         }
     }
 }
